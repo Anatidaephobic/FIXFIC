@@ -1,0 +1,33 @@
+{
+  "title": "FIXFIC CYOA (+ All DLC)",
+  "description": "The FIXFIC CYOA, with all the DLC I've been able to find.",
+  "artist": "Various",
+  "author": "Various",
+  "cover": "https://i.imgur.com/0VOFbzb.png",
+  "chapters": {
+    "1": {
+      "title": "Core + Armory DLC + Barracks DLC + Forbidden Vault DLC",
+      "volume": "1",
+      "last_updated": "1653150534",
+      "groups": {
+        "?": "/proxy/api/imgur/chapter/4h2APhc"
+      }
+    },
+    "2": {
+      "title": "Infinite Earths Mission Pack",
+      "volume": "1",
+      "last_updated": "1653150826",
+      "groups": {
+        "?": "/proxy/api/imgur/chapter/RNd3lNY"
+      }
+    },
+    "3": {
+      "title": "Beyond Earth Mission Pack",
+      "volume": "1",
+      "last_updated": "1653150907",
+      "groups": {
+        "?": "/proxy/api/imgur/chapter/mfLslFH"
+      }
+    }
+  }
+}
